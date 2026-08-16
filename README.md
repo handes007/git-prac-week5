@@ -1,1 +1,1 @@
-# This is a simple repo for testing my progress
+# This is a simple repo for python code hahahaha
